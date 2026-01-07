@@ -111,7 +111,7 @@ My research interests include **signal processing**, **neural network**, and **c
 - *2024.10* Second-class Scholarship for Postgraduates, Huazhong University of Science and Technology.
 
 # 📖 Educations
-- *2024.09 - 2027.06 , Huazhong University of Science and Technology, Master in Smart Construction. 
+- *2024.09 - 2027.06*, Huazhong University of Science and Technology, Master in Smart Construction. 
 - *2020.09 - 2024.06*, Huazhong University of Science and Technology, B.S. in Engineering Management. 
 
 
