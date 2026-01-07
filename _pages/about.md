@@ -24,11 +24,7 @@ My research interests include **signal processing**, **neural network**, and **c
 - **Google Scholar:** https://scholar.google.com/citations?user=0Unk5k8AAAAJ
 
   
-<a href='https://scholar.google.com/citations?user=0Unk5k8AAAAJ'>google scholar citations <strong><span id='total_cit'>Loading...</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=0Unk5k8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-
-
-# 📝 Publications 
 # 📝 Publications
 
 <div class="paper-box">
@@ -81,6 +77,30 @@ My research interests include **signal processing**, **neural network**, and **c
   </div>
 </div>
 
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">JOEME 2025 · JCR Q2</div>
+      <img src="images/paper3.jpg" alt="teaser" width="100%">
+    </div>
+  </div>
+
+  <div class="paper-box-text">
+    <a href="https://doi.org/10.1007/s40722-025-00462-1"><b>Safety analysis of quay wall structures based on explainable machine learning</b></a>
+    <br><br>
+
+    Zhaosheng Feng, Jun Chen, Wen Liu, Yang Chen, <b>Liang Ma&#42;</b><br>
+    <i> Journal of Ocean Engineering and Marine Energy</i>, 2025<br>
+    &#42; Corresponding author
+    <br><br>
+
+    <a href="https://doi.org/10.1007/s40722-025-00462-1">[DOI]</a>
+    <a href="https://link.springer.com/article/10.1007/s40722-025-00462-1">[Springer]</a>
+    <br><br>
+
+    - Develops an interpretable ML framework for quay wall shear-force prediction and safety analysis.
+  </div>
+</div>
 
 
 
