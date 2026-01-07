@@ -16,11 +16,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-我叫 **（你的名字）**，目前是 **（学校/学院）** 的硕士研究生，研究方向包括 **（方向1）**、**（方向2）** 等。
+I am **Liang Ma**, a Master's student at **Huazhong University of Science and Technology**.  
+My research interests include **signal processing**, **neural network**, and **causal inference**.
 
-- Email: （你的邮箱）
-- GitHub: https://github.com/burwaynEe
-- Google Scholar: https://scholar.google.com/citations?user=（你的ScholarID）
+- **Email:** maliang0226@126.com
+- **GitHub:** https://github.com/burwaynEe  
+- **Google Scholar:** https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID
+
   
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=0Unk5k8AAAAJ'>google scholar citations <strong><span id='total_cit'>Loading...</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=0Unk5k8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
