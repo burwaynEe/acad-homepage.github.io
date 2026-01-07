@@ -90,7 +90,7 @@ My research interests include **signal processing**, **neural network**, and **c
     <br><br>
 
     Zhaosheng Feng, Jun Chen, Wen Liu, Yang Chen, <b>Liang Ma&#42;</b><br>
-    <i> Journal of Ocean Engineering and Marine Energy</i>, 2025<br>
+    <i>Journal of Ocean Engineering and Marine Energy</i>, 2025<br>
     &#42; Corresponding author
     <br><br>
 
