@@ -111,4 +111,13 @@ h1:before, .anchor:before {
 .paper-box-text em {
   font-family: "Times New Roman", "Noto Serif", "Georgia", serif;
 }
+/* ===== Force Times New Roman everywhere ===== */
+html, body,
+h1, h2, h3, h4, h5, h6,
+p, li, span, a,
+em, i, strong, b,
+button, input, textarea,
+nav, footer {
+  font-family: "Times New Roman", Times, serif !important;
+}
 
