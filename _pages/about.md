@@ -34,18 +34,25 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 
 
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">TUST 2025</div>
+      <img src='images/tust-2025-106670.tif' ima=es/tust- 025-1=6670.ti
+    </div>
+  </div>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+  <div class='paper-box-text' markdown="1">
+    [**Signal processing techniques for detecting leakage in urban water supply pipelines: Denoising and feature enhancement**](https://doi.org/10.1016/j.tust.2025.106670)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+    Liang Ma, Tengfei An, Runhan Zhao, Tianxiang Liu, Wenli Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=0Unk5k8AAAAJ&citation_for_view=0Unk5k8AAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='0Unk5k8AAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+    [[DOI]](https://doi.org/10.1016/j.tust.2025.106670) [[ScienceDirect]](https://www.sciencedirect.com/science/article/pii/S0886779825003086)
+    - Brief one-line highlight of your contribution / key finding.
+  </div>
 </div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
