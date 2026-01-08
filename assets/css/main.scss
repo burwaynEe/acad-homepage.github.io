@@ -126,6 +126,21 @@ nav, footer {
   font-family: "Times New Roman", Times, serif !important;
 }
 
+/* ===== Academic typography ===== */
 html {
   font-size: 18px;
 }
+
+.page__content {
+  line-height: 1.7;
+}
+
+.paper-box-text {
+  font-size: 17.5px;
+  line-height: 1.6;
+}
+
+h1 { font-size: 2.2rem; }
+h2 { font-size: 1.7rem; }
+h3 { font-size: 1.3rem; }
+
